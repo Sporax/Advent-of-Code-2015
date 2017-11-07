@@ -1,7 +1,6 @@
 from json import loads
 import re
 
-# cheat cause it's a pain in the bum
 def n(j):
     if type(j) == int:
         return j
